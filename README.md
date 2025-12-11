@@ -1,2 +1,1 @@
-In this lab exercise, we work on the problem of predicting a buy or sell signal for a trading strategy in the classification framework. The predicted variable has a value of 1 for buy and 0 for sell. The buy or sell signal are decided on the basis on the comparison of short term vs. long term price.
-The goal of this case study is tu use classification based models to predict whether the current signal is **buy or sell** depending on the short term vs long term price.
+open the notebook in google colab / Jupyter Notebook
